@@ -5,3 +5,4 @@
 - Carlos Madero
 - Lucia Cantillo
 - Tatiana Marrugo
+- Laura Romero
